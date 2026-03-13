@@ -8,7 +8,7 @@
 - 📊 Interested in **Data Analysis, Data Science, and Machine Learning**
 - 🧠 Experienced in building **ML models using Python**
 - 📈 Skilled in **data preprocessing, visualization, and predictive modeling**
-- 🔍 Looking for opportunities as a **Data Analyst / Data Scientist**
+- 🔍 Looking for opportunities as a **Data Analyst / Data Scientist / Machine Learning**
 
 ---
 
