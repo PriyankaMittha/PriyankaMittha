@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Priyanka Mittha</h1>
-<h3 align="center">AI/ML Enthusiast | Python Developer | MCA Student</h3>
+<h3 align="center">Aspiring Data Analyst | Data Scientist | Python & Machine Learning Enthusiast</h3>
 
 ---
 
-🎓 MCA Student at DIMR Pune  
-💻 Passionate about Machine Learning, AI, and Data Science  
-📊 Interested in building ML models and real-world AI solutions  
-🌱 Currently learning Advanced Machine Learning & AI
+## 👩‍💻 About Me
+
+- 📊 Interested in **Data Analysis, Data Science, and Machine Learning**
+- 🧠 Experienced in building **ML models using Python**
+- 📈 Skilled in **data preprocessing, visualization, and predictive modeling**
+- 🔍 Looking for opportunities as a **Data Analyst / Data Scientist**
 
 ---
 
@@ -35,15 +37,6 @@ Git | GitHub | AWS | Jira
 ---
 
 ## 🔬 Featured Projects
-
-### 🌸 Piyusha – Flower Recycling System
-AI-powered flower classification system using CNN  
-Transforms waste flowers into useful products.
-
-Tech Stack:
-Python | CNN | Flask
-
----
 
 ### 🤖 Machine Learning Models
 
