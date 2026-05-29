@@ -1,22 +1,19 @@
 <h1 align="center">Hi 👋, I'm Priyanka Mittha</h1>
 <h3 align="center">Aspiring Data Analyst | Data Scientist | Power BI Developer</h3>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PriyankaMittha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PriyankaMittha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
 🎓 MCA Student at DIMR, Pune  
-📊 Passionate about Data Analytics, Machine Learning & Visualization  
-💡 Interested in solving real-world business problems using data  
-📈 Skilled in Power BI, Excel, Python, SQL & Machine Learning  
-🌱 Currently learning Advanced Data Science & AI  
-🚀 Looking for opportunities as a Data Analyst / Data Scientist  
+📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  
+📈 Skilled in transforming raw data into meaningful insights  
+💡 Interested in Data Visualization, Predictive Analytics & AI-driven solutions  
+🌱 Currently learning Advanced SQL, Power BI & Machine Learning  
 
 ---
 
@@ -40,82 +37,93 @@
 
 # 💻 Tech Stack
 
-### 👩‍💻 Programming & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ### 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-### 🤖 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 👨‍💻 Programming & Database
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+### 🤖 Machine Learning & Libraries
+<p>
+<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+</p>
 
 ---
 
 # 📌 Featured Projects
 
-## 📊 Sales Data Dashboard - Power BI
-🔹 Interactive dashboard for sales analysis  
-🔹 KPIs, revenue insights & regional analysis  
-🔹 Tools Used: Power BI, Excel
+## 📊 Customer Behavior Analysis Dashboard
+🔹 Power BI dashboard analyzing customer purchase behavior and trends  
+🔹 Interactive visualizations for business insights  
+🔹 Data Cleaning, KPI Tracking & Reporting  
 
-## 🧠 Customer Behavior Analysis
-🔹 Analyzed customer purchase behavior patterns  
-🔹 Data cleaning, visualization & insights generation  
-🔹 Tools Used: Python, Pandas, Matplotlib
-
-## 🏥 Diabetes Prediction System
-🔹 Machine Learning model for prediction  
-🔹 Built using Flask & Scikit-learn  
-🔹 Tools Used: Python, ML, Flask
-
-## 🌸 Piyusha Project
-🔹 Waste flower recycling management system  
-🔹 CNN-based flower classification  
-🔹 Sustainable product generation platform
+🔗 Repository:  
+https://github.com/PriyankaMittha
 
 ---
 
-# 📜 Certifications
+## 📈 Sales Data Dashboard
+🔹 Developed an interactive Power BI dashboard  
+🔹 Analyzed sales, profits & regional performance  
+🔹 Created actionable business insights using data visualization  
 
-🏅 Microsoft Azure AI Fundamentals  
-🏅 IBM Artificial Intelligence Fundamentals  
-🏅 Deloitte Data Analytics Job Simulation  
-🏅 Walmart Software Engineering Simulation  
-🏅 Machine Learning Certification  
+---
+
+## 🤖 Diabetes Prediction System
+🔹 Machine Learning web application using Python & Scikit-Learn  
+🔹 Predictive analytics for healthcare data  
+🔹 Flask-based web interface  
+
+---
+
+# 🏆 Certifications
+
+✔ Microsoft Azure AI Fundamentals  
+✔ IBM Artificial Intelligence Fundamentals  
+✔ Deloitte Australia Data Analytics Job Simulation  
+✔ AI Skill Challenge  
+✔ Data Science & Machine Learning Certifications  
 
 ---
 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaMittha&show_icons=true&theme=tokyonight" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PriyankaMittha&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaMittha&theme=tokyonight" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaMittha&theme=tokyonight" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMittha&layout=compact&theme=tokyonight" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMittha&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# ✨ Quote
+# 🎯 Current Focus
 
-> “Data is the new oil, but insights are the real fuel.” 🚀
+✅ Data Analytics Projects  
+✅ Power BI Dashboards  
+✅ Machine Learning Models  
+✅ SQL & Python for Data Analysis  
+✅ Building Portfolio Projects  
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+# ✨ Fun Fact
+
+📊 I enjoy turning raw data into meaningful stories and business insights.
