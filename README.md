@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-- 📊 Interested in **Data Analysis, Data Scienc**
+- 📊 Interested in **Data Analysis, Data Science**
 - 🧠 Experienced in building **ML models using Python**
 - 📈 Skilled in **data preprocessing, visualization, and predictive modeling**
 
