@@ -1,9 +1,9 @@
 <div align="center">
 
 # ✨ Priyanka Mittha ✨
-### 📊 Data Analyst • 🤖 Data Scientist • 📈 Power BI Developer
+### 📊 Data Analyst • 🤖 Data Scientist 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights+📊;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Aspiring+Data+Scientist+from+India+🇮🇳" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights+📊;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Aspiring+Data+Analyst+from+India" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PriyankaMittha&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
@@ -17,7 +17,6 @@
 
 # 👩‍💻 About Me
 
-🎓 MCA Student at DIMR, Pune  
 📊 Passionate about Data Analytics, Data Science & Business Intelligence  
 📈 Skilled in Power BI, Python, SQL, Excel & Machine Learning  
 💡 Love creating dashboards, visualizations & extracting insights from data  
@@ -32,21 +31,14 @@
 📧 Email  
 <a href="mailto:priyankamittha1609@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+</a> |
 💼 LinkedIn  
 <a href="https://www.linkedin.com/in/priyanka-mittha/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+</a> |
 💻 GitHub  
 <a href="https://github.com/PriyankaMittha">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-🌍 Portfolio  
-<a href="https://github.com/PriyankaMittha">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
 </p>
@@ -58,7 +50,7 @@
 ### 👨‍💻 Languages & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java"/>
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
 ---
@@ -68,9 +60,6 @@
 <p>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
@@ -163,10 +152,9 @@
 
 🏅 Azure AI Fundamentals  
 🏅 Deloitte Data Analytics Virtual Internship  
-🏅 Walmart Software Engineering Simulation  
 🏅 AI Skill Challenge  
-🏅 Data Science & Machine Learning Certifications  
-🏅 DevOps Certified Cloud Engineer (CCE)  
+🏅 Data Analyst & Data Scientist Certifications  
+
 
 ---
 
