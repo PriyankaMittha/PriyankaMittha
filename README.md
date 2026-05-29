@@ -41,8 +41,6 @@
 
 # ⚡ Tech Stack
 
-# ⚡ Tech Stack
-
 <p align="left">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
@@ -64,9 +62,6 @@
 
 ---
 
----
----
-
 # 🚀 Featured Projects
 
 ## 📊 Customer Behavior Analysis Dashboard
@@ -74,6 +69,9 @@
 ✨ Built interactive Power BI dashboards to analyze customer purchasing patterns  
 ✨ Performed KPI tracking, segmentation & trend analysis  
 ✨ Used data storytelling techniques for business insights  
+
+🔗 Repository:
+[Customer Behavior Analysis](https://github.com/PriyankaMittha/customer-behavior-analysis-powerbi)
 
 ---
 
@@ -83,6 +81,9 @@
 ✨ Analyzed regional sales, revenue & profitability  
 ✨ Developed business reports with interactive filters  
 
+🔗 Repository:
+[Sales Performance Dashboard](https://github.com/PriyankaMittha/Sales-Dashboard-PowerBI)
+
 ---
 
 ## 🛍️ Online Retail Data Analysis
@@ -91,45 +92,11 @@
 ✨ Identified sales trends and customer insights  
 ✨ Performed exploratory data analysis and visualization  
 
----
-
-## 🤖 Diabetes Prediction System
-
-✨ Machine Learning healthcare project using Python & Scikit-Learn  
-✨ Built predictive model for diabetes detection  
-✨ Developed Flask-based web application  
+🔗 Repository:
+[Online Retail Data Analysis](https://github.com/PriyankaMittha/excel-online-store-dashboard)
 
 ---
 
-## 🌸 Piyusha – Waste Flower Recycling System
-
-✨ Smart sustainability project for recycling waste flowers  
-✨ Used CNN-based flower classification  
-✨ Created workflow for flower collection and recycled product delivery  
-
----
-
-## 🎉 Event Management System
-
-✨ Developed event management portal using React & Ant Design  
-✨ Managed event scheduling, registrations & approvals  
-✨ Focused on user-friendly UI and workflow management  
-
----
-
-## 📉 Sentiment Analysis Web App
-
-✨ NLP-based sentiment analysis application  
-✨ Classified user reviews and feedback sentiments  
-✨ Built using Python and Machine Learning algorithms  
-
----
-
-## 🗄️ SQL Data Analysis Projects
-
-✨ Wrote SQL queries for business analysis and reporting  
-✨ Performed joins, aggregations & KPI calculations  
-✨ Worked on real-world analytical problem solving  
 
 ---
 
