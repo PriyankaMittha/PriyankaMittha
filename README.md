@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Mittha</h1>
-<h3 align="center">Aspiring Data Analyst | Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Data Scientist</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 - 📊 Interested in **Data Analysis, Data Science, and Machine Learning**
 - 🧠 Experienced in building **ML models using Python**
 - 📈 Skilled in **data preprocessing, visualization, and predictive modeling**
-- 🔍 Looking for opportunities as a **Data Analyst / Data Scientist / Machine Learning Engineer**
+- 🔍 Looking for opportunities as a **Data Analyst / Data Scientist**
 
 ---
 
