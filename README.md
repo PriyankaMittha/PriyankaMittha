@@ -1,106 +1,172 @@
 <div align="center">
 
-# Priyanka Mittha 👩‍💻
-### Data Analyst • Data Scientist • Power BI Developer
+# ✨ Priyanka Mittha ✨
+### 📊 Data Analyst • 🤖 Data Scientist • 📈 Power BI Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights+📊;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Aspiring+Data+Scientist+from+India+🇮🇳" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights+📊;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Aspiring+Data+Scientist+from+India+🇮🇳" />
 
 <p align="center">
-  <a href="https://github.com/PriyankaMittha">
-    <img src="https://img.shields.io/github/followers/PriyankaMittha?label=Followers&style=for-the-badge&color=blue"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=PriyankaMittha&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
   
-  <img src="https://komarev.com/ghpvc/?username=PriyankaMittha&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/PriyankaMittha?label=Followers&style=for-the-badge&color=blue"/>
 </p>
 
 </div>
 
 ---
 
-# 🌟 About Me
+# 👩‍💻 About Me
 
 🎓 MCA Student at DIMR, Pune  
-📊 Passionate about Data Analytics & Data Science  
-📈 Skilled in Power BI, Python, SQL & Machine Learning  
-💡 Love creating dashboards and extracting business insights from data  
-🚀 Currently building real-world analytics projects and improving ML skills  
+📊 Passionate about Data Analytics, Data Science & Business Intelligence  
+📈 Skilled in Power BI, Python, SQL, Excel & Machine Learning  
+💡 Love creating dashboards, visualizations & extracting insights from data  
+🚀 Currently working on real-world analytics and machine learning projects  
 
 ---
 
-# 🔗 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanka-mittha/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
 
+📧 Email  
 <a href="mailto:priyankamittha1609@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/PriyankaMittha">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+💼 LinkedIn  
+<a href="https://www.linkedin.com/in/priyanka-mittha/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+💻 GitHub  
+<a href="https://github.com/PriyankaMittha">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+🌍 Portfolio  
+<a href="https://github.com/PriyankaMittha">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 # ⚡ Tech Stack
 
-### 📊 Data Analytics
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,mongodb"/>
-</p>
+### 👨‍💻 Languages & Databases
 
 <p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning Libraries
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,java"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
+### 📊 Data Analytics & Visualization
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+---
+
+### 🤖 Machine Learning Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 📊 Customer Behavior Analysis Dashboard
 
-✨ Interactive Power BI Dashboard  
-✨ Customer segmentation & purchasing trends  
-✨ KPI tracking and visual storytelling  
+✨ Built interactive Power BI dashboards to analyze customer purchasing patterns  
+✨ Performed KPI tracking, segmentation & trend analysis  
+✨ Used data storytelling techniques for business insights  
 
 ---
 
 ## 📈 Sales Performance Dashboard
 
-✨ Revenue & profit analysis  
-✨ Regional sales insights  
-✨ Interactive filters and KPI cards  
+✨ Created dynamic sales dashboards using Power BI  
+✨ Analyzed regional sales, revenue & profitability  
+✨ Developed business reports with interactive filters  
+
+---
+
+## 🛍️ Online Retail Data Analysis
+
+✨ Cleaned and analyzed retail sales dataset using Python & Pandas  
+✨ Identified sales trends and customer insights  
+✨ Performed exploratory data analysis and visualization  
 
 ---
 
 ## 🤖 Diabetes Prediction System
 
-✨ Machine Learning healthcare project  
-✨ Built using Python & Scikit-Learn  
-✨ Predictive analytics with Flask integration  
+✨ Machine Learning healthcare project using Python & Scikit-Learn  
+✨ Built predictive model for diabetes detection  
+✨ Developed Flask-based web application  
+
+---
+
+## 🌸 Piyusha – Waste Flower Recycling System
+
+✨ Smart sustainability project for recycling waste flowers  
+✨ Used CNN-based flower classification  
+✨ Created workflow for flower collection and recycled product delivery  
+
+---
+
+## 🎉 Event Management System
+
+✨ Developed event management portal using React & Ant Design  
+✨ Managed event scheduling, registrations & approvals  
+✨ Focused on user-friendly UI and workflow management  
+
+---
+
+## 📉 Sentiment Analysis Web App
+
+✨ NLP-based sentiment analysis application  
+✨ Classified user reviews and feedback sentiments  
+✨ Built using Python and Machine Learning algorithms  
+
+---
+
+## 🗄️ SQL Data Analysis Projects
+
+✨ Wrote SQL queries for business analysis and reporting  
+✨ Performed joins, aggregations & KPI calculations  
+✨ Worked on real-world analytical problem solving  
 
 ---
 
 # 🏆 Certifications
 
 🏅 Azure AI Fundamentals  
-🏅 Deloitte Data Analytics Simulation  
+🏅 Deloitte Data Analytics Virtual Internship  
+🏅 Walmart Software Engineering Simulation  
 🏅 AI Skill Challenge  
 🏅 Data Science & Machine Learning Certifications  
-🏅 Walmart Software Engineering Simulation  
+🏅 DevOps Certified Cloud Engineer (CCE)  
 
 ---
 
@@ -121,7 +187,9 @@
 # 🐍 Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </div>
 
 ---
@@ -129,15 +197,15 @@
 # 🎯 2026 Goals
 
 ✅ Build Advanced Power BI Dashboards  
-✅ Master SQL for Analytics  
+✅ Master SQL & Data Analytics  
 ✅ Create End-to-End ML Projects  
 ✅ Contribute More on GitHub  
-✅ Get Data Analyst / Data Scientist Role  
+✅ Get a Data Analyst / Data Scientist Role  
 
 ---
 
 <div align="center">
 
-### ✨ “Without data, you're just another person with an opinion.” – W. Edwards Deming
+## ✨ “Data is the new oil, but insights are the real value.” 📊
 
 </div>
