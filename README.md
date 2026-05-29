@@ -41,37 +41,14 @@
 
 # ⚡ Tech Stack
 
-### 👨‍💻 Languages & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql"/>
-</p>
-
----
-
-### 📊 Data Analytics & Visualization
-
-<p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
-
----
-
-### 🤖 Machine Learning Libraries
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
 </p>
 
 ---
