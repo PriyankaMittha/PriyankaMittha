@@ -1,63 +1,69 @@
-<h1 align="center">Hi 👋, I'm Priyanka Mittha</h1>
-<h3 align="center">Aspiring Data Analyst | Data Scientist | Power BI Developer</h3>
+<div align="center">
+
+# Priyanka Mittha 👩‍💻
+### Data Analyst • Data Scientist • Power BI Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights+📊;Power+BI+%7C+Python+%7C+SQL+%7C+Machine+Learning;Aspiring+Data+Scientist+from+India+🇮🇳" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PriyankaMittha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/PriyankaMittha">
+    <img src="https://img.shields.io/github/followers/PriyankaMittha?label=Followers&style=for-the-badge&color=blue"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=PriyankaMittha&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+</div>
+
 ---
 
-## 🚀 About Me
+# 🌟 About Me
 
 🎓 MCA Student at DIMR, Pune  
-📊 Passionate about Data Analytics, Machine Learning & Business Intelligence  
-📈 Skilled in transforming raw data into meaningful insights  
-💡 Interested in Data Visualization, Predictive Analytics & AI-driven solutions  
-🌱 Currently learning Advanced SQL, Power BI & Machine Learning  
+📊 Passionate about Data Analytics & Data Science  
+📈 Skilled in Power BI, Python, SQL & Machine Learning  
+💡 Love creating dashboards and extracting business insights from data  
+🚀 Currently building real-world analytics projects and improving ML skills  
 
 ---
 
-## 🔗 Connect With Me
+# 🔗 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanka-mittha/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:priyankamittha1609@gmail.com">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://github.com/PriyankaMittha">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 </p>
 
-### 👨‍💻 Programming & Database
+### 🤖 Machine Learning Libraries
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🤖 Machine Learning & Libraries
-<p>
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
 </p>
 
 ---
@@ -65,65 +71,73 @@
 # 📌 Featured Projects
 
 ## 📊 Customer Behavior Analysis Dashboard
-🔹 Power BI dashboard analyzing customer purchase behavior and trends  
-🔹 Interactive visualizations for business insights  
-🔹 Data Cleaning, KPI Tracking & Reporting  
 
-🔗 Repository:  
-https://github.com/PriyankaMittha
+✨ Interactive Power BI Dashboard  
+✨ Customer segmentation & purchasing trends  
+✨ KPI tracking and visual storytelling  
 
 ---
 
-## 📈 Sales Data Dashboard
-🔹 Developed an interactive Power BI dashboard  
-🔹 Analyzed sales, profits & regional performance  
-🔹 Created actionable business insights using data visualization  
+## 📈 Sales Performance Dashboard
+
+✨ Revenue & profit analysis  
+✨ Regional sales insights  
+✨ Interactive filters and KPI cards  
 
 ---
 
 ## 🤖 Diabetes Prediction System
-🔹 Machine Learning web application using Python & Scikit-Learn  
-🔹 Predictive analytics for healthcare data  
-🔹 Flask-based web interface  
+
+✨ Machine Learning healthcare project  
+✨ Built using Python & Scikit-Learn  
+✨ Predictive analytics with Flask integration  
 
 ---
 
 # 🏆 Certifications
 
-✔ Microsoft Azure AI Fundamentals  
-✔ IBM Artificial Intelligence Fundamentals  
-✔ Deloitte Australia Data Analytics Job Simulation  
-✔ AI Skill Challenge  
-✔ Data Science & Machine Learning Certifications  
+🏅 Azure AI Fundamentals  
+🏅 Deloitte Data Analytics Simulation  
+🏅 AI Skill Challenge  
+🏅 Data Science & Machine Learning Certifications  
+🏅 Walmart Software Engineering Simulation  
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PriyankaMittha&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaMittha&theme=tokyonight" alt="streak"/>
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PriyankaMittha&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMittha&layout=compact&theme=tokyonight"/>
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaMittha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaMittha&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🎯 Current Focus
+# 🐍 Contribution Graph
 
-✅ Data Analytics Projects  
-✅ Power BI Dashboards  
-✅ Machine Learning Models  
-✅ SQL & Python for Data Analysis  
-✅ Building Portfolio Projects  
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
-# ✨ Fun Fact
+# 🎯 2026 Goals
 
-📊 I enjoy turning raw data into meaningful stories and business insights.
+✅ Build Advanced Power BI Dashboards  
+✅ Master SQL for Analytics  
+✅ Create End-to-End ML Projects  
+✅ Contribute More on GitHub  
+✅ Get Data Analyst / Data Scientist Role  
+
+---
+
+<div align="center">
+
+### ✨ “Without data, you're just another person with an opinion.” – W. Edwards Deming
+
+</div>
